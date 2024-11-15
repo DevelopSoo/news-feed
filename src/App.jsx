@@ -1,4 +1,5 @@
 function App() {
+  asdfasdf;
   return <></>;
 }
 
